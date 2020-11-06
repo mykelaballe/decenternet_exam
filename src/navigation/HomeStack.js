@@ -34,9 +34,9 @@ const HomeStack = ({user, logout}) => {
             <Stack.Screen
                 name='CreateNews'
                 component={Scrn.CreateNews}
-                options={{
-                    title: 'Create News'
-                }}
+                options={route => ({
+                    title: route.params?.news ? 'Edit News' : 'Create News'
+                })}
             />
 
             <Stack.Screen
