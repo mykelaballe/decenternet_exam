@@ -1,4 +1,4 @@
-apk: https://drive.google.com/file/d/1OoP7MLYmmJ6lxZnGaY6HRfIb9_KQDrNO/view?usp=sharing
+apk: https://drive.google.com/file/d/1CbsXYz4CXJ9I5GYNfkGne5RrLVrPffhY/view?usp=sharing
 
 # Step 1
 generate project by running the commain `react-native init ProjectName`
